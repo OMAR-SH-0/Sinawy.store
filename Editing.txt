@@ -1,0 +1,11 @@
+//!       TO ADD Product
+//todo      -add product images
+//todo      -make details page 
+//todo      -add product in index page <>
+//todo      -add details page to product<>
+
+
+
+
+//!      Always Check
+//          -Sizes and Available (لو مش متاح عدل رسالة الواتس) واكتب انه هيبقى متاح قريبا
